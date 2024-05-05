@@ -4,7 +4,7 @@ Todo App
 
 ## Frontend URL
 
-[Todo web](https://65db9f1064c4cf1b77e9c263--academic-todo.netlify.app/)
+[Todo web](https://6637ff75240d763282e97cd2--academic-react.netlify.app/#)
 
 ## Strategies
 
