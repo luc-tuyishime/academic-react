@@ -8,7 +8,7 @@ import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 
 const App = () => {
-  const [sideMenuIsExpand, setSideMenuIsExpand] = useState(false);
+  const [, setSideMenuIsExpand] = useState(false);
   return (
     <>
       <Sidebar setExpand={setSideMenuIsExpand} />
